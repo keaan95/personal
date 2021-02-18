@@ -2,22 +2,12 @@
 title: About
 ---
 
-# Lines
+# A doctor in-training
 
-Lines is a minimalistic Hugo blogging theme.
+I'm a fourth year medical student at Newcastle University.
 
-### Features
+I'm particularly interested in cancer genomics, machine learning and data visualisation. I currently:
 
-- Minimalistic, clean and simple design
-- Responsive design
-- Inline CSS
-- Anchor headings
-- Tags
-- 404 page
-- Compressed CSS and HTML
-- 100/100 score on Lighthouse, Page Speed Insights & Webpagetest
-- Robots.txt
-- Atom & Json feeds
-- Sass
-- Seo optimized (Twitter cards, Facebook Open Graph, Schema.org)
-- Ultra fast (Only ~2kb of CSS)
+- Lead an educational intiative exploring how machine learning is currently impacting oncology ([DoctorX.co.uk 🧬](http://www.doctorx.co.uk/) )
+- Lead a charity that helps science graduates get into medicine and research ([BioToMed.com 💊](http://www.biotomed.com/))
+- Encourage medical students to become better prepared for emergencies ([NEMSOC.com 💉](http://www.nemsoc.com/)).
