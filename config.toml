@@ -1,8 +1,8 @@
-baseURL = "https://lines-hugo-theme.netlify.app/"
+baseURL = "https://www.keaan.co.uk"
 languageCode = "en-us"
-title = "Lines - Minimalist Hugo theme"
+title = "Keaan"
 disableKinds = ["section", "categories"]
-disqusShortname = ""
+disqusShortname = "cranky-mayer-a22b3f-netlify-app"
 pygmentsCodeFences = false
 pygmentsUseClasses = false
 paginate = 999
@@ -47,19 +47,7 @@ minify = true
 [permalinks]
   posts = "/:year/:month/:day/:filename"
   pages = "/:slug"
-
-[outputs]
-  home = ["HTML", "RSS", "JSON"]
-  section = ["HTML"]
-
-[outputFormats.RSS]
-  mediatype = "application/rss"
-  baseName = "atom"
-
-[outputFormats.JSON]
-  mediatype = "application/json"
-  baseName = "feed"
-
+  
 [sitemap]
   changefreq = "monthly"
   filename = "sitemap.xml"
@@ -68,7 +56,7 @@ minify = true
 [menu]
   [[menu.main]]
     identifier = "index"
-    name       = "Index"
+    name       = "blog"
     url        = "/"
     weight     = -111
 
@@ -77,9 +65,3 @@ minify = true
     name       = "About"
     url        = "/about/"
     weight     = -20
-
-  [[menu.main]]
-    identifier = "rss"
-    name       = "RSS"
-    url        = "/atom.xml"
-    weight     = -10
